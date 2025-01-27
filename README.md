@@ -3,6 +3,6 @@ A very loud alarm wakes him up from a well deserved rest after a long… let’s
 He recognises the alarm from emergency drills, so this only means that the spaceship will self-destruct if it doesn’t get fixed as soon as possible. 
 Who… or what triggered the safety protocol? The courier must sweat off all the alcohol… sorry, the tiredness, put his suit on and grab his repairing tool before it’s too late.
 
-https://github.com/Zidorak/PuzzleGameProject
+https://github.com/Zidorak/Mhrang-Express
 
-https://zidorak00x.itch.io/teambluesae
+https://zidorak00x.itch.io/mhrang-express
